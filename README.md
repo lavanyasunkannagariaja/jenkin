@@ -1,2 +1,3 @@
 # jenkin
 Pipeline
+Build triggering
